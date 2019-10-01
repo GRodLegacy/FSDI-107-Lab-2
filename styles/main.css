@@ -1,0 +1,29 @@
+
+h1 {
+    color: darkblue;
+}
+
+.error {
+    border: 1px solid red;
+} 
+
+.btn-done {
+    float: right;
+}
+
+li:hover {
+    background-color: aliceblue;
+    border: 1px solid rgb(241, 113, 7);
+}
+
+.todo-container {
+    margin-top: 20px;
+}
+
+.done-container {
+    margin-top: 30px;
+}
+
+.done-item {
+    text-decoration: line-through;
+}
